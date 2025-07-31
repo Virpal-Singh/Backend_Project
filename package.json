@@ -1,0 +1,15 @@
+{
+  "name": "big_backend_project",
+  "version": "1.0.0",
+  "description": "full project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "virpal",
+  "license": "ISC"
+}
